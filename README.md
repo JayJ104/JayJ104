@@ -12,7 +12,6 @@ I am a senior at University of California, Davis studying Computer Science. Grad
 - **Languages:** Python, Javascript, Typescript, C++, Java, SQL, HTML/CSS
 - **Frameworks:** ReactJS, NextJS, JestJS, ExpressJS, NodeJS, Bootstrap, Django, Flask, FastAPI, Poetry
 - **Databases:** MongoDB, PostreSQL, MySQL
-- **Python Libraries:** Numpy, Pandas, Scikit-learn, Scipy, Lmfit, NLTK
 
 ### 💻Currently Learning/To Learn:
 - Operating systems, Mobile development, Distributed systems, AWS
