@@ -22,7 +22,7 @@ I am a senior at University of California, Davis studying Computer Science. Grad
 - LinkedIn: [/in/anjali-jay-jain](https://www.linkedin.com/in/anjali-jay-jain)
 - Email: [jayjainxiv@gmail.com](mailto:jayjainxiv@gmail.com)
 
-### 📊Stats:
+### 📊This Past Week:
 <!--START_SECTION:waka-->
 
 ```txt
