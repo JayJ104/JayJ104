@@ -13,7 +13,7 @@ I am a senior at University of California, Davis studying Computer Science. Grad
 - **Frameworks:** ReactJS, NextJS, JestJS, ExpressJS, NodeJS, Bootstrap, Django, Flask, FastAPI, Poetry
 - **Databases:** MongoDB, PostreSQL, MySQL
 
-### 💻Currently Learning/To Learn:
+### 💻Currently Learning/Planning To Learn:
 - Operating systems, Mobile development, Distributed systems, AWS
 - **Languages:** Kotlin, C#, GraphQL
 - **Frameworks:** React Native, SpringBoot, .NET, gRPC
