@@ -26,11 +26,11 @@ I am a senior at University of California, Davis studying Computer Science. Grad
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   23 hrs 26 mins  █████████████████░░░░░░░░   67.78 %
-SCSS         4 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Python       3 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-CSS          51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-TypeScript   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JavaScript    24 hrs 6 mins   █████████████████░░░░░░░░   67.98 %
+SCSS          4 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+TypeScript    2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Markdown      1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+CSS           51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
