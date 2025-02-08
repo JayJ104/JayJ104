@@ -9,7 +9,7 @@ I am a senior at University of California, Davis studying Computer Science. Grad
 
 ### 🧑‍💻Skills:
 - Full-stack web development, REST API, Database design and management, CI/CD, Machine learning
-- **Languages:** Python, Javascript, Typescript, C++, Java, SQL, HTML/CSS
+- **Languages:** Python, Typescript, Javascript, C++, Golang, Java, SQL, HTML/CSS
 - **Frameworks:** ReactJS, NextJS, JestJS, ExpressJS, NodeJS, Bootstrap, Django, Flask, FastAPI, Poetry
 - **Databases:** MongoDB, PostreSQL, MySQL
 
